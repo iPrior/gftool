@@ -1,1 +1,1 @@
-# gftool
+# GFTool
